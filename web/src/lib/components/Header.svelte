@@ -45,6 +45,13 @@
             padding: 0 30px;
         }
 
+        .brand {
+            width: 100%;
+            text-align: center;
+            font-weight: bold;
+            font-size: x-large;
+        }
+
         .menu {
             display: none;
         }
