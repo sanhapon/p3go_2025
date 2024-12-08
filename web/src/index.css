@@ -1,0 +1,29 @@
+body, * {
+    font-family: 'Open Sans';
+    margin: 0px;
+    padding: 0px ;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+.common-search__container {
+    width: 1100px;
+}
+
+@media only screen and (max-width: 680px) {
+
+    .common-search__container {
+        width: unset;
+    }
+
+    .common-search-component {
+        border: none !important;
+    }
+}
+
+/* background: #fff;
+border: 1px solid #3570e6;
+border-radius: 3px; */
