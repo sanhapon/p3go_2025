@@ -3,9 +3,13 @@
     import TopDestination from "$lib/components/TopDestination.svelte";
 </script>
 
+<svelte:head>
+    <title>p3go.com | car rentals</title> 
+</svelte:head>
+
 <section class='hero'>
-    <h1 class='title1'>Car Rental – Search, Compare, and Save</h1>
-    <h4 class='title2'>always a smooth rental experience</h4>
+    <h1 class='title1'>The Cheapest Rates from the Biggest Car Rental Companies</h1>
+    <h5 class='title2'>always a smooth rental experience</h5>
     <div class="searchbox">
         <QeeqSearchBox></QeeqSearchBox>
     </div>
@@ -25,7 +29,6 @@
         color: white;
         justify-self: center;
     }
-
 
     .hero {
         height: 500px;
