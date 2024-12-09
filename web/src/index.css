@@ -26,3 +26,17 @@ li {
 #datepicker-dropdown {
     width: max-content;
 }
+
+.search-btn {
+    --tw-bg-opacity: 1;
+    --tw-text-opacity: 1;
+    background-color: #eb4f27;
+    color: #cc4522;
+    font-size: 18px;
+    line-height: 28px;
+    height: 42px;
+    font-weight: 600;
+    padding: 0 50px;
+    --tw-text-opacity: 1;
+    color:  #ffffff;
+}
