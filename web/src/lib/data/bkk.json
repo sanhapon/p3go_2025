@@ -1,0 +1,175 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "i18n": {
+            "black_friday_ends_in": "Ends in",
+            "black_friday_sale_joined": "Joined",
+            "black_friday_sale_join_now": "Join Now",
+            "black_friday_sale_points": "Black Friday Sale: Points x 2",
+            "black_friday_terms": "Terms & conditions",
+            "bottom_tip_bars_ok": "OK",
+            "bottom_tip_bars_readmore": "Read More",
+            "bottom_tip_bars_words": "This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. You can disable cookies at any time within your browser settings.",
+            "common_diamond_free_con": "Congratulations!",
+            "common_diamond_free_pop": "You are now a <a target=\"_blank\" href=\"\/account\/membership\">free-trial Diamond Member.<\/a> Enjoy exclusive discount on your bookings.",
+            "cookie_eu_accept": "Accept",
+            "cookie_eu_des": "We use technical, analytical, functional and commercial cookies to help you with things like logging in, personalizing ads\/content, improving and customizing your browsing experience.",
+            "cookie_eu_des ": "",
+            "cookie_eu_nothanks": "No, thanks",
+            "cookie_eu_nothanks ": "",
+            "cookie_eu_readmore": "Read more about our cookie policy here:",
+            "cookie_eu_title": "<b>We value your privacy<\/b><\/br>",
+            "cookie_policy": "Cookie Policy",
+            "double_logo_text": "QEEQ is part of QEEQ.COM",
+            "faq_from_country_uk": "From United Kingdom",
+            "from_cannada": "From Canada",
+            "halloween_top_bar_content": "Sign up before Halloween to win FREE car hire. <span class=\"activity-sign-up J-halloween_top_bar_sign_up\" data-tj=\"PC-halloween-freeorder-signup\">Join<\/span> & Win Now! <a href=\"\/term?info=halloween_freeorder\" target=\"_blank\" data-tj=\"PC-halloween-freeorder-info\">Terms & Conditions<\/a>",
+            "halloween_top_bar_title": "Win Free Car Hire",
+            "list_supplier_jp_tag": "Japanese service",
+            "m_bottom_tip_bars_words": "We use cookies to ensure you the best experience. We’ll assume you accept it if you continue to browse.",
+            "pc_fb_page_car_content_1": "Get 100 Points, value US$1",
+            "pc_fb_page_car_content_2": "Stay tuned for fabulous <b>travel tips<\/b>, inspiration, destination <b>guides<\/b>.",
+            "pc_fb_page_car_title": "Like us on Facebook to stay tuned",
+            "see_more_options": "See more options",
+            "sign_in_email_notice": "If you forgot your password or would like to Quick Login, please click the email link."
+        },
+        "state": 1,
+        "info": {
+            "airport": [
+                {
+                    "city": "3069",
+                    "type": "2",
+                    "landmark": "99156",
+                    "region_name": "Thailand",
+                    "city_name": "Bangkok",
+                    "state_id": "1",
+                    "state_name": "Bangkok (province)",
+                    "state_code": "",
+                    "landmark_name": "Bangkok Suvarnabhumi Airport",
+                    "iata": "BKK",
+                    "city_full_name": "Bangkok, Thailand",
+                    "landmark_full_name": "Bangkok Suvarnabhumi Airport(BKK)"
+                },
+                {
+                    "city": "3069",
+                    "type": "2",
+                    "landmark": "99184",
+                    "region_name": "Thailand",
+                    "city_name": "Bangkok",
+                    "state_id": "1",
+                    "state_name": "Bangkok (province)",
+                    "state_code": "",
+                    "landmark_name": "Don Muang Airport",
+                    "iata": "DMK",
+                    "city_full_name": "Bangkok, Thailand",
+                    "landmark_full_name": "Don Muang Airport(DMK)"
+                }
+            ],
+            "train_station": [
+                {
+                    "city": "3069",
+                    "type": "5",
+                    "landmark": "111810",
+                    "region_name": "Thailand",
+                    "city_name": "Bangkok",
+                    "state_id": "1",
+                    "state_name": "Bangkok (province)",
+                    "state_code": "",
+                    "landmark_name": "Hualumphong Train Station",
+                    "city_full_name": "Bangkok, Thailand",
+                    "landmark_full_name": "Hualumphong Train Station"
+                }
+            ],
+            "city": [
+                {
+                    "city": "3069",
+                    "type": "1",
+                    "landmark": "",
+                    "region_name": "Thailand",
+                    "city_name": "Bangkok",
+                    "state_id": "1",
+                    "state_name": "Bangkok (province)",
+                    "state_code": "",
+                    "city_full_name": "Bangkok, Thailand",
+                    "landmark_full_name": ""
+                }
+            ],
+            "landmark": [
+                {
+                    "city": "3069",
+                    "type": "3",
+                    "landmark": "111817",
+                    "region_name": "Thailand",
+                    "city_name": "Bangkok",
+                    "state_id": "1",
+                    "state_name": "Bangkok (province)",
+                    "state_code": "",
+                    "landmark_name": "MBK Shopping Mall",
+                    "city_full_name": "Bangkok, Thailand",
+                    "landmark_full_name": "MBK Shopping Mall"
+                },
+                {
+                    "city": "3069",
+                    "type": "3",
+                    "landmark": "109515",
+                    "region_name": "Thailand",
+                    "city_name": "Bangkok",
+                    "state_id": "1",
+                    "state_name": "Bangkok (province)",
+                    "state_code": "",
+                    "landmark_name": "Emporium Shopping Mall",
+                    "city_full_name": "Bangkok, Thailand",
+                    "landmark_full_name": "Emporium Shopping Mall"
+                },
+                {
+                    "city": "3069",
+                    "type": "3",
+                    "landmark": "111784",
+                    "region_name": "Thailand",
+                    "city_name": "Bangkok",
+                    "state_id": "1",
+                    "state_name": "Bangkok (province)",
+                    "state_code": "",
+                    "landmark_name": "Royal City Avenue (RCA)",
+                    "city_full_name": "Bangkok, Thailand",
+                    "landmark_full_name": "Royal City Avenue (RCA)"
+                },
+                {
+                    "city": "3069",
+                    "type": "3",
+                    "landmark": "111806",
+                    "region_name": "Thailand",
+                    "city_name": "Bangkok",
+                    "state_id": "1",
+                    "state_name": "Bangkok (province)",
+                    "state_code": "",
+                    "landmark_name": "Snake Farm-Queen Saovabha Memorial Institute",
+                    "city_full_name": "Bangkok, Thailand",
+                    "landmark_full_name": "Snake Farm-Queen Saovabha Memorial Institute"
+                },
+                {
+                    "city": "3069",
+                    "type": "3",
+                    "landmark": "111791",
+                    "region_name": "Thailand",
+                    "city_name": "Bangkok",
+                    "state_id": "1",
+                    "state_name": "Bangkok (province)",
+                    "state_code": "",
+                    "landmark_name": "Bangkok Hospital",
+                    "city_full_name": "Bangkok, Thailand",
+                    "landmark_full_name": "Bangkok Hospital"
+                }
+            ]
+        },
+        "activity_code_info": [],
+        "is_google": 0,
+        "gg_info": {
+            "airport": [],
+            "train_station": [],
+            "city": [],
+            "landmark": []
+        }
+    }
+}
