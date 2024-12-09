@@ -22,3 +22,7 @@ li {
         border: none !important;
     }
 }
+
+#datepicker-dropdown {
+    width: max-content;
+}

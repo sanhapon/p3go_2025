@@ -1,10 +1,9 @@
-<script>
-    import '../index.css'
-    import Header from "$lib/components/Header.svelte";
-    import Footer from '$lib/components/Footer.svelte';
+<script>import "../app.css";
+import '../index.css'
+import Header from "$lib/components/Header.svelte";
+import Footer from '$lib/components/Footer.svelte';
 
-    let { children } = $props()
-</script>
+let { children } = $props()</script>
 
 <header>
     <Header></Header>
