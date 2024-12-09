@@ -1,5 +1,5 @@
 <script>
-    import QeeqSearchBox from "$lib/components/QeeqSearchBox.svelte";
+    import SearchBox from "$lib/components/SearchBox.svelte";
     import TopDestination from "$lib/components/TopDestination.svelte";
 </script>
 
@@ -11,7 +11,7 @@
     <h1 class='title1'>The Cheapest Rates from the Biggest Car Rental Companies</h1>
     <h5 class='title2'>always a smooth rental experience</h5>
     <div class="searchbox">
-        <QeeqSearchBox></QeeqSearchBox>
+        <SearchBox></SearchBox>
     </div>
 </section>
 
