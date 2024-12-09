@@ -39,7 +39,7 @@
     }
 
     .searchbox {
-        padding-top: 50px;
+        padding-top: 30px;
     }
  
     @media only screen and (max-width: 680px) {
